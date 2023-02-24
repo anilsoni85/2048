@@ -2,6 +2,7 @@
   "name": "2048",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://anilsoni85.github.io/2048/",
   "dependencies": {
     "base64url": "^3.0.1",
     "react": "^18.2.0",
